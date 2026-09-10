@@ -4,7 +4,6 @@ title: Difference of convex functions in nonlinear robust MPC
 description:
 img: assets/img/DC1.png
 importance: 2
-category: work
 ---
 
 Robust model predictive control (MPC) is concerned with preserving performance and closed-loop stability for systems subject to uncertainty, while offering the properties of optimality, real-time tractability and constraint satisfaction of classical MPC. This approach is promising in air transport scenarios where robustness, efficiency and safety are vital requirements. However, a direct application of robust MPC methods to realistic nonlinear problems requires the solution of numerically intractable optimisation.
