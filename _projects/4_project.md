@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modeling and control of a passively-coupled tilt-rotor vertical takeoff and landing aircraft
+title: Modeling and control of a passively-coupled tilt-rotor VTOL aircraft
 description:
 img: assets/img/vogi1.png
 importance: 4
