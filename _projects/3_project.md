@@ -4,7 +4,6 @@ title: Robust control of an eVTOL aircraft in urban air mobility scenarios
 description: 
 img: assets/img/eVTOL1.png
 importance: 3
-category: work
 ---
 
 
