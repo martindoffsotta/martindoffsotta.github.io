@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robust control of an eVTOL aircraft in urban air mobility scenarios
-description: 
+description:
 img: assets/img/eVTOL1.png
 importance: 3
 ---
