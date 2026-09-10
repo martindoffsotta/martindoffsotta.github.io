@@ -10,15 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>
-    <a href="https://scholar.google.com/citations?user=LELUlQQAAAAJ&hl=en&oi=ao">Google Scholar</a>
-    </p>
-    <p>
-    <a href="https://github.com/martindoffsotta">GitHub</a>
-    </p>
-    <p>
-    <a href="https://www.researchgate.net/profile/Martin-Doff-Sotta?ev=hdr_xprf">ResearchGate</a>
-    </p>
-    <p>
+    <a href="https://scholar.google.com/citations?user=LELUlQQAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
+    <a href="https://github.com/martindoffsotta">GitHub</a><br>
+    <a href="https://www.researchgate.net/profile/Martin-Doff-Sotta?ev=hdr_xprf">ResearchGate</a><br>
     <a href="https://users.ox.ac.uk/~quee3967/index.html">Former website</a>
     </p>
     
