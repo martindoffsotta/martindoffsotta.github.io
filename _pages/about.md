@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: martin.doffsotta@gmail.com
+subtitle:
 
 profile:
   align: right
