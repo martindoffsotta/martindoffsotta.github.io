@@ -9,13 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>
-    <a href="https://scholar.google.com/citations?user=LELUlQQAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
-    <a href="https://github.com/martindoffsotta">GitHub</a><br>
-    <a href="https://www.researchgate.net/profile/Martin-Doff-Sotta?ev=hdr_xprf">ResearchGate</a><br>
-    <a href="https://users.ox.ac.uk/~quee3967/index.html">Former website</a><br>
-    <a href="https://orcid.org/0000-0001-6416-3026">ORCID</a>
-    </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -35,3 +28,13 @@ I obtained a PhD in Control Engineering from the [University of Oxford](https://
 
 ### Research
 My research focuses on combining the predictive capabilities of artificial intelligence with the safety guarantees of control systems, with applications to urban air mobility, renewable energy, and sustainable aviation.
+
+### Find out more
+
+  <p>
+    <a href="https://scholar.google.com/citations?user=LELUlQQAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
+    <a href="https://github.com/martindoffsotta">GitHub</a><br>
+    <a href="https://www.researchgate.net/profile/Martin-Doff-Sotta?ev=hdr_xprf">ResearchGate</a><br>
+    <a href="https://users.ox.ac.uk/~quee3967/index.html">Former website</a><br>
+    <a href="https://orcid.org/0000-0001-6416-3026">ORCID</a>
+    </p>
