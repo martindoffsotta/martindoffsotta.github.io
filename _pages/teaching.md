@@ -10,13 +10,13 @@ calendar: false
 
 ### Classes at Oxford
 
-- **B15: Linear Systems and Optimal Control (2019–2023)**
+- **B15: Linear Systems and Optimal Control (2019–2026)**
   Syllabus: state-space representation, observability/controllability, state feedback and pole placement, linear quadratic regulator (LQR), linear observer, Kalman filter, introduction to robust control, controller limitations.
 
-- **A2: Introduction to Control Theory (2020–2023)**
+- **A2: Introduction to Control Theory (2020–2025)**
   Syllabus: Laplace transforms, feedback systems, transfer function representation, PID control, time domain behaviour, stability, frequency domain analysis, Bode and Nyquist plots, discrete-time systems, z transform.
 
-- **A2: Introduction to Computer Science (2021)**
+- **A2: Introduction to Computer Science (2021-2025)**
   Syllabus: number representation, computer architecture, memory organisation, processor, arithmetic logic unit (ALU), assembly, introduction to programming in Python.
 
 - **A1: Mathematics II (2021)**
