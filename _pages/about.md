@@ -16,7 +16,7 @@ profile:
     <a href="https://users.ox.ac.uk/~quee3967/index.html">Former website</a><br>
     <a href="https://orcid.org/0000-0001-6416-3026">ORCID</a>
     </p>
-    
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
