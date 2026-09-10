@@ -9,18 +9,18 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>
+    <p>
     <a href="https://scholar.google.com/citations?user=LELUlQQAAAAJ&hl=en&oi=ao">Google Scholar</a>
-  </p>
-  <p>
+    </p>
+    <p>
     <a href="https://github.com/martindoffsotta">GitHub</a>
-  </p>
-  <p>
+    </p>
+    <p>
     <a href="https://www.researchgate.net/profile/Martin-Doff-Sotta?ev=hdr_xprf">ResearchGate</a>
-  </p>
-  <p>
+    </p>
+    <p>
     <a href="https://users.ox.ac.uk/~quee3967/index.html">Former website</a>
-  </p>
+    </p>
     
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
