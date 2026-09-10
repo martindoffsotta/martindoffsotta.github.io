@@ -5,7 +5,7 @@ description:
 img: assets/img/hybrid1.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 
