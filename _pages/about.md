@@ -9,21 +9,21 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <a href="https://scholar.google.com/citations?user=LELUlQQAAAAJ&hl=en&oi=ao">Google Scholar test</a>
-    <p>[GitHub](https://github.com/martindoffsotta)</p>
-    <p>[ResearchGate](https://www.researchgate.net/profile/Martin-Doff-Sotta?ev=hdr_xprf)</p>
-    <p>[Old website](https://users.ox.ac.uk/~quee3967/index.html)</p>
-
+    <a href="https://scholar.google.com/citations?user=LELUlQQAAAAJ&hl=en&oi=ao">Google Scholar</a>
+    <a href="https://github.com/martindoffsotta">GitHub</a>
+    <a href="https://www.researchgate.net/profile/Martin-Doff-Sotta?ev=hdr_xprf">ResearchGate</a>
+    <a href="https://users.ox.ac.uk/~quee3967/index.html">Former website</a>
+    
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
