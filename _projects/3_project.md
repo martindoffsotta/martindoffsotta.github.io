@@ -6,7 +6,6 @@ img: assets/img/eVTOL1.png
 importance: 3
 ---
 
-
 This project is a collaboration with Rolls-Royce. Building on the theory of DC functions decomposition, a systematic data-driven computationally tractable robust nonlinear MPC has been developed and applied to new eVTOL aircraft in urban air mobility scenarios. The resulting control scheme offers robustness guarantees to model uncertainty and exogenous disturbances, paving the way to future widespread adoption in safety-critical applications. It will allow Rolls-Royce to strengthen its leadership position in the flying taxi business by providing tools for certification of their unmanned technology by aviation authorities.
 
 <div class="row">
@@ -15,5 +14,5 @@ This project is a collaboration with Rolls-Royce. Building on the theory of DC f
     </div>
 </div>
 <div class="caption">
-    eVTOL aircraft concept for urban air mobility. 
+    eVTOL aircraft concept for urban air mobility.
 </div>
