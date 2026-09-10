@@ -2,7 +2,7 @@
 layout: page
 title: Energy management for hybrid-electric aircraft
 description:
-img: assets/img/hybrid1.jpg
+img: assets/img/hybrid1.png
 importance: 1
 category: work
 related_publications: false
