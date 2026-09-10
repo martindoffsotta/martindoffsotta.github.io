@@ -32,6 +32,7 @@ My research focuses on combining the predictive capabilities of artificial intel
 
 ### Find out more
 
+
 <p>
     <a href="https://scholar.google.com/citations?user=LELUlQQAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
     <a href="https://github.com/martindoffsotta">GitHub</a><br>
