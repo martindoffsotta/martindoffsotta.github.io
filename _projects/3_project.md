@@ -2,7 +2,7 @@
 layout: page
 title: Robust control of an eVTOL aircraft in urban air mobility scenarios
 description: 
-img: assets/img/eVTOL.png
+img: assets/img/eVTOL1.png
 importance: 3
 category: work
 ---
@@ -12,7 +12,7 @@ This project is a collaboration with Rolls-Royce. Building on the theory of DC f
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/eVTOL.png" title="eVTOL aircraft" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/eVTOL1.png" title="eVTOL aircraft" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
