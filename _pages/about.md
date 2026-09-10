@@ -33,10 +33,10 @@ My research focuses on combining the predictive capabilities of artificial intel
 
 ### Find out more
 
-  <p>
+<p>
     <a href="https://scholar.google.com/citations?user=LELUlQQAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
     <a href="https://github.com/martindoffsotta">GitHub</a><br>
     <a href="https://www.researchgate.net/profile/Martin-Doff-Sotta?ev=hdr_xprf">ResearchGate</a><br>
     <a href="https://users.ox.ac.uk/~quee3967/index.html">Former website</a><br>
     <a href="https://orcid.org/0000-0001-6416-3026">ORCID</a>
-    </p>
+</p>
