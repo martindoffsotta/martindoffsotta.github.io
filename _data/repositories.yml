@@ -6,3 +6,9 @@ repo_description_lines_max: 2
 
 github_repos:
   - martindoffsotta/DC-NN-MPC
+  - martindoffsotta/Radial-basis-TMPC
+  - martindoffsotta/VTOL-aircraft-MPC
+  - martindoffsotta/DC-Deep-Neural-Network
+  - martindoffsotta/DC-RNN
+  - martindoffsotta/spacecraft-energy
+  - martindoffsotta/DC-TMPC
