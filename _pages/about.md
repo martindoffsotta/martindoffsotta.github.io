@@ -27,5 +27,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I hold a PhD in Control Engineering from the [University of Oxford](https://www.ox.ac.uk). 
-My research focuses on combining the predictive capabilities of artificial intelligence with the safety guarantees of control systems, with applications to urban air mobility, renewable energy, and sustainable aviation. 
+
+I hold a PhD in Control Engineering from the [University of Oxford](https://www.ox.ac.uk).
+My research focuses on combining the predictive capabilities of artificial intelligence with the safety guarantees of control systems, with applications to urban air mobility, renewable energy, and sustainable aviation.
