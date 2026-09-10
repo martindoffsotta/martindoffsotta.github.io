@@ -1,81 +1,27 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Difference of convex functions in nonlinear robust MPC
+description:
+img: assets/img/DC1.png
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Robust model predictive control (MPC) is concerned with preserving performance and closed-loop stability for systems subject to uncertainty, while offering the properties of optimality, real-time tractability and constraint satisfaction of classical MPC. This approach is promising in air transport scenarios where robustness, efficiency and safety are vital requirements. However, a direct application of robust MPC methods to realistic nonlinear problems requires the solution of numerically intractable optimisation.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In this research, robust MPC is made computationally tractable for nonlinear systems representable as a difference of convex (DC) functions. The approach is based on successively linearising the system around guess trajectories and treating the linearisation error as a bounded disturbance in a robust optimisation framework. Crucially, by convexity of the dynamics, the linearisation error is necessarily convex and takes its maximum at the boundary of the uncertainty set, allowing tight bounds to be computed. This provides a very general method for solving uncertain optimisation problems as a sequence of computationally tractable convex programs where the dynamics are approximated tightly by a set of convex inequalities. This convex optimisation is then leveraged in a robust MPC framework.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The approach can be applied to any continuous nonlinear system for which a DC decomposition can always be computed. Techniques such as sums-of-squares polynomials, deep neural networks, and machine learning can be used to learn the nonlinear dynamics in DC form. The expected outcome of this research will be the systematic synthesis of safe, robust, computationally efficient and optimal controllers for safety-critical applications.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DC1.png" title="DC decomposition" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DC2.jpg" title="DC decomposition" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left: learning system dynamics in DC form with radial basis functions. Right: DC decomposition with recurrent neural networks. 
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
