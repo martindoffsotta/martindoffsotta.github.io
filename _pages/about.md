@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[Google Scholar](https://scholar.google.com/citations?user=LELUlQQAAAAJ&hl=en&oi=ao)</p>
+    <a href="https://scholar.google.com/citations?user=LELUlQQAAAAJ&hl=en&oi=ao">Google Scholar</a>
     <p>[GitHub](https://github.com/martindoffsotta)</p>
     <p>[ResearchGate](https://www.researchgate.net/profile/Martin-Doff-Sotta?ev=hdr_xprf)</p>
     <p>[Old website](https://users.ox.ac.uk/~quee3967/index.html)</p>
