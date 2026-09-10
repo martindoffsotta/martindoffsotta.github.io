@@ -18,7 +18,7 @@ The approach can be applied to any continuous nonlinear system for which a DC de
         {% include figure.liquid loading="eager" path="assets/img/DC1.png" title="DC decomposition" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DC2.jpg" title="DC decomposition" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/DC2.png" title="DC decomposition" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
