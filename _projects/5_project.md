@@ -12,7 +12,6 @@ To achieve these objectives, the project leverages cutting-edge methodologies, i
 
 The project combines power systems modelling, distributed optimisation, and advanced control theory. It aims to address the growing challenges of integrating renewable energy resources, reducing network losses, and deferring costly infrastructure upgrades. By enhancing HIT performance at both individual and network-wide levels, the platform will support the decarbonisation of power systems, aligning with net-zero targets and advancing global energy transition efforts.
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/transformer.png" title="HIT" class="img-fluid rounded z-depth-1" %}
