@@ -2,7 +2,7 @@
 layout: page
 title: Optimising power systems with Hybrid Intelligent Transformers (HIT)
 description:
-img: assets/img/vogi1.png
+img: assets/img/transformer.png
 importance: 5
 ---
 
